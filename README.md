@@ -51,12 +51,12 @@ Welcome to my central repository for my transition into Cybersecurity. This proj
 ---
 
 ## 📈 Activity Stats
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MiskaturRahman&theme=dracula)
 
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/miskaturrahmae](https://www.linkedin.com/in/miskaturrahman/)
+- **LinkedIn:** [linkedin.com/in/miskaturrahman](https://www.linkedin.com/in/miskaturrahman/)
 - **Email:** mdrahmanmiskatur@gmail.com
 - **Portfolio:** [painleetech.com](https://painleetech.com)
 
