@@ -1,7 +1,7 @@
 # 🛡️ Cybersecurity Transition Lab & Notes | Perth 2026
 > **Path to SOC Analyst & Security Engineering**
 
-Welcome to my central repository for my transition into Cybersecurity. This project documents my journey from a **Data Analytics** background into **Cyber Operations**, specifically focused on the Western Australian market.
+Welcome to my central repository for my transition into Cybersecurity. This project documents my journey from a **Data Analytics** background into **Cyber Operations**.
 
 ---
 
