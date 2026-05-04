@@ -34,10 +34,10 @@ Welcome to my central repository for my transition into Cybersecurity. This proj
 *Structured notes based on Professor Messer’s curriculum.*
 
 ### Domain 1: General Security Concepts
-- [x] [1.1 The CIA Triad](.1.1-The-CIA-Triad.md)
-- [x] [1.2 Control Categories](.1.2-Security-Control-Categories.md)
-- [x] [1.3 Control Types](.1.3-Security-Control-Types.md)
-- [x] [1.4 Risk Management Fundamentals](.1.4-Non-repudiation.md)
+- [x] [1.1 The CIA Triad](./1.1-The-CIA-Triad.md)
+- [x] [1.2 Control Categories](./1.2-Security-Control-Categories.md)
+- [x] [1.3 Control Types](./1.3-Security-Control-Types.md)
+- [x] [1.4 Risk Management Fundamentals](./1.4-Non-repudiation.md)
 
 ---
 
