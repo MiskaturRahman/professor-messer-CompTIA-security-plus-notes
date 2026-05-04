@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Transition Lab & Notes | Perth 2026
+# 🛡️ Cybersecurity Transition Lab & Notes
 > **Path to SOC Analyst & Security Engineering**
 
 Welcome to my central repository for my transition into Cybersecurity. This project documents my journey from a **Data Analytics** background into **Cyber Operations**.
@@ -37,7 +37,7 @@ Welcome to my central repository for my transition into Cybersecurity. This proj
 - [x] [1.1 The CIA Triad](./Notes/1.1-The-CIA-Triad.md)
 - [x] [1.2 Control Categories](./Notes/1.2-Security-Control-Categories.md)
 - [x] [1.3 Control Types](./Notes/1.3-Security-Control-Types.md)
-- [ ] 1.4 Risk Management Fundamentals
+- [x] [1.4 Risk Management Fundamentals](./Notes/1.4-Non-repudiation.md)
 
 ---
 
