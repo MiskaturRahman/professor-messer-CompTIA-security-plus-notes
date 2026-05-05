@@ -38,6 +38,7 @@ Welcome to my central repository for my transition into Cybersecurity. This proj
 - [x] [1.2 Control Categories](./1.2-Security-Control-Categories.md)
 - [x] [1.3 Control Types](./1.3-Security-Control-Types.md)
 - [x] [1.4 Risk Management Fundamentals](./1.4-Non-repudiation.md)
+- [x] [1.5-AAA-Framework](./1.5-AAA-Framework.md)
 
 ---
 
